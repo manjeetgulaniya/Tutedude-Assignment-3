@@ -6,7 +6,9 @@ def factorial(a):
         counter = counter + 1
     print(sum)
 
-factorial(5)
+num=int(input("Enter the number:\t"))
+
+factorial(num)
     
 
 
